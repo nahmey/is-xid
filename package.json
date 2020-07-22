@@ -1,0 +1,16 @@
+{
+  "name": "is-xid",
+  "version": "1.0.0",
+  "description": "A unique id checker for node.js",
+  "main": "index.js",
+  "jest": {
+    "verbose": true
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Joffrey VERD",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
