@@ -16,6 +16,3 @@ isXid(id); // true
 
 ## Licence
 [MIT License](https://github.com/joffreyverd/is-xid/blob/master/LICENSE)
-
-### Documentation
-[xid](https://github.com/rs/xid)
