@@ -6,6 +6,9 @@
   "publishConfig": { 
     "registry": "https://npm.pkg.github.com/" 
   },
+  "repository": {
+    "url": "git@github.com:joffreyverd/is-xid.git"
+  },
   "jest": {
     "verbose": true
   },
